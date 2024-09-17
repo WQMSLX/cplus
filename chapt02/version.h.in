@@ -1,2 +1,0 @@
-#define USE_FEATURE_X
-#define MAX_FILE_SIZE @MAX_FILE_SIZE@

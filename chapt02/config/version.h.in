@@ -1,5 +1,5 @@
 #pragma once
 
-#define USE_FEATURE_X @USE_FEATURE_X@
+#define USE_FEATURE_X 
 #define MAX_FILE_SIZE @MAX_FILE_SIZE@
 
